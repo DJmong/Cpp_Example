@@ -15,7 +15,7 @@
      - std::string source
      - std::string delimiter
   - 출력
-     - std::vector<std::string>
+     - std::vector\<std::string\>
   - 사용법
      - 코드 내 main 함수 참조
   - 설명
