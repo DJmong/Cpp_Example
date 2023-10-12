@@ -1,0 +1,4 @@
+- 설명
+   - source를 입력 받아 delimiter 단위로 문장을 쪼개주는 만능 파서
+- 출처
+   - https://stackoverflow.com/questions/11719538/how-to-use-stringstream-to-separate-comma-separated-strings
