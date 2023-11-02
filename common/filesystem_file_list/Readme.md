@@ -1,0 +1,4 @@
+- 설명
+   - 특정 디렉토리 내부에 있는 파일을 리스트로 보여주는 기능
+- 출처
+   - https://stackoverflow.com/questions/612097/how-can-i-get-the-list-of-files-in-a-directory-using-c-or-c
